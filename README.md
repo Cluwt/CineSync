@@ -50,7 +50,6 @@ O projeto segue uma estrutura MVC (Model-View-Controller), onde cada parte desem
 - FidelidadeModel.java
 - ProgramacaoModel.java
 - ComunicacaoExternaModel.java
-- Outras classes de modelo conforme necessário.
 
 #### Visão
 - TelaPrincipalView.java
@@ -63,7 +62,6 @@ O projeto segue uma estrutura MVC (Model-View-Controller), onde cada parte desem
 - PainelRestauranteView.java
 - PainelSalaVIPView.java
 - PainelControleAcessoView.java
-- Outras classes de visão conforme necessário.
 
 #### Controle
 - ControladorPrincipalController.java
@@ -76,7 +74,6 @@ O projeto segue uma estrutura MVC (Model-View-Controller), onde cada parte desem
 - ControladorRestauranteController.java
 - ControladorSalaVIPController.java
 - ControladorControleAcessoController.java
-- Outras classes controladoras conforme necessário.
 
 #### DAO
 - FilmeDAO.java
@@ -92,7 +89,6 @@ O projeto segue uma estrutura MVC (Model-View-Controller), onde cada parte desem
 - FidelidadeDAO.java
 - ProgramacaoDAO.java
 - ComunicacaoExternaDAO.java
-- Outras classes DAO conforme necessário.
 
 #### Utils
 - ConexaoBanco.java (ou qualquer outro nome que você preferir)
